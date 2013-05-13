@@ -1,0 +1,16 @@
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\bin\Debug\Test.dll
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\bin\Debug\Test.pdb
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\bin\Debug\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\bin\Debug\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\obj\Debug\Test.dll
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\obj\Debug\Test.pdb
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Test\bin\Debug\sqlite3.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Debug\sqlite3.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Debug\Test.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Debug\Test.pdb
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Debug\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Debug\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\obj\Debug\Test.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\obj\Debug\Test.pdb

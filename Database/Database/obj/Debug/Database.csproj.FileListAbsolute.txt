@@ -1,0 +1,12 @@
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Database\bin\Debug\Database.dll.config
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Database\bin\Debug\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Database\bin\Debug\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Database\obj\Debug\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Database\obj\Debug\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Omniprise\Android\Database\Database\bin\Debug\sqlite3.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Database\bin\Debug\Database.dll.config
+C:\Users\mitchell.michael\Desktop\C#\Database\Database\bin\Debug\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Database\bin\Debug\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Database\Database\obj\Debug\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Database\obj\Debug\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache

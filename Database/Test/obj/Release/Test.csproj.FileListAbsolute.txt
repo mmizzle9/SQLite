@@ -1,0 +1,8 @@
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Release\sqlite3.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Release\Test.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Release\Test.pdb
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Release\Database.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\bin\Release\Database.pdb
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\obj\Release\Test.dll
+C:\Users\mitchell.michael\Desktop\C#\Database\Test\obj\Release\Test.pdb
